@@ -2,7 +2,7 @@
 from random import randint as r
 
 # select number between 1 and 100
-number = r(1, 101)
+number = r(1, 100)
 
 while True:
     # try to execute the code below
